@@ -88,7 +88,7 @@ Now that we have a place to write some code, let's explore a few of Python's
 built-in options for displaying data in different ways.
 
 ### Standard print() Statements
-
+e
 By default, `print()` includes a newline character at the end of your string.
 Try entering several `print()` statements in a row in `lib/app.py`:
 
